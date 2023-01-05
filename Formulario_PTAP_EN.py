@@ -343,7 +343,7 @@ app.layout = dbc.Container([
                    'text-align': 'center'},
         ),
         ]),
-        dbc.Col(html.H5('Any sufficiently advanced technology is indistinguishable from magic" - Arthur C. Clarke '),style={'color':"green", 'font-family': "Franklin Gothic"})
+        dbc.Col(html.H5('"Any sufficiently advanced technology is indistinguishable from magic" - Arthur C. Clarke '),style={'color':"green", 'font-family': "Franklin Gothic"})
         # dbc.Col(html.H5('"Any sufficiently advanced technology is indistinguishable from magic"'})
     ]),
     dbc.Row([
